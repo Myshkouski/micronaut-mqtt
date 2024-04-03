@@ -1,4 +1,4 @@
-This library supports connecting to MQTT brokers over SSL. Because that feature requires a third party dependency (Bouncy Castle), the functionality exists in a separate module that you must express a dependency on.
+This library supports connecting to MQTT brokers over SSL using client certificate. Because that feature requires a third party dependency (Bouncy Castle), the functionality exists in a separate module that you must express a dependency on.
 
 dependency:micronaut-mqtt-ssl[groupId="io.micronaut.mqtt"]
 
