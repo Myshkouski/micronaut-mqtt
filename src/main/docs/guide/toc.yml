@@ -19,7 +19,7 @@ v5:
   v5dependency: MQTT v5 Dependency with Eclipse Paho
   v5config: Configuration
   properties: Properties
-ssl: SSL Connections
+ssl: SSL client certificates
 producer:
   title: MQTT Publishers
   producerMethods:
